@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @drimdrim2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-drimdrim2002/drimdrim2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 현실적인 NP문제를 푸는데 몰두하는 개발자입니다. 
 NP 문제가 무엇인지, 우리 주변에 어떤 NP문제가 있는지, 이를 어떻게 풀어나갈 수 있는지를 하나하나 소개하는 공간이 될 것입니다.
